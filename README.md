@@ -2,6 +2,12 @@
 Face detection (class and psoe) using various Classifiers.
 Dimentionality Reduction using PCA and MDA
 
+## Classifiers implemented from scratch
+- Bayes
+- kNN
+- SVM (Linear, RBF, Polynomial kernels)
+- AdaBoost with SVM
+
 ## Author
 
 ### Siddharth Telang (stelang@umd.edu)
